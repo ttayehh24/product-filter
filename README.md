@@ -23,7 +23,7 @@ Use the git clone command followed by the copied repository URL.
 
 # For example:
 
-`git clone https://github.com/user/repository-name.git`
+`git clone https://github.com/ttayehh24/product-filter.git`
 
 
 
