@@ -37,7 +37,7 @@ function ProductFilter() {
             <div className="pt-25 px-4">
                 <form className="max-w-sm mx-auto pb-3">
                     <label htmlFor="categorySelect" className="block mb-2 text-md font-medium text-gray-900 dark:text-white">Select an option</label>
-                    <select name="categorySelect" aria-label="Select by Category" onChange={(e) => setSelectedCategory(e.target.value)} className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg hover:cursor-pointer focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                    <select name="categorySelect" aria-label="Select by Category" onChange={(e) => setSelectedCategory(e.target.value)} className="dropdown-select">
                         <option value="All">Select by category - All</option>
                         <option value="Apparel">Apparel</option>
                         <option value="Electronics">Electronics</option>
@@ -54,7 +54,7 @@ function ProductFilter() {
                     placeholder="Min Price"
                     value={minPrice}
                     onChange={(e) => setMinPrice(e.target.value)}
-                    className="input-price"
+                    className="input-field"
                     aria-label="minimum price"
                     />
                     <input
@@ -62,7 +62,7 @@ function ProductFilter() {
                     placeholder="Max Price"
                     value={maxPrice}
                     onChange={(e) => setMaxPrice(e.target.value)}
-                    className="input-price"
+                    className="input-field"
                     aria-label="maximum price"
                 />
                 </div>

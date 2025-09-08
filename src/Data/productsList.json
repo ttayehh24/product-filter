@@ -99,41 +99,34 @@
   },
   {
     "id": 15,
-    "name": "Portable Charger",
-    "category": "Electronics",
-    "price": 35.00,
-    "imageUrl": "/Images/portable-charger.jpg"
-  },
-  {
-    "id": 16,
     "name": "Coffee Maker",
     "category": "Home Goods",
     "price": 55.00,
     "imageUrl": "/Images/coffee-maker.jpg"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "Skateboard",
     "category": "Sports",
     "price": 70.00,
     "imageUrl": "/Images/skateboard.jpg"
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "Women's Scarf",
     "category": "Fashion",
     "price": 20.00,
     "imageUrl": "/Images/scarf.jpg"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Bluetooth Speaker",
     "category": "Electronics",
     "price": 45.00,
     "imageUrl": "/Images/bluetooth-speaker.jpg"
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "Gardening Tool Set",
     "category": "Home Goods",
     "price": 50.00,
