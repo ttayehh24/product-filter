@@ -3,7 +3,6 @@ import productsData from '../Data/productsList.json';
 import '../Styles/ProductFilter-output.css';
 
 function ProductFilter() { 
-
     const [items, setItems] = useState([]);
     const [selectedCategory, setSelectedCategory] = useState("All");
     const [minPrice, setMinPrice] = useState('');
@@ -31,7 +30,6 @@ function ProductFilter() {
         }
     });
     
-
      return (
         <>
             <div className="pt-25 px-4">
