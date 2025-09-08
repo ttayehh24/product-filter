@@ -19,10 +19,6 @@ Use the cd command to change your current working directory to where you want to
 # Clone the repository: 
 Use the git clone command followed by the copied repository URL.
 
-`git clone <repository_url>`
-
-# For example:
-
 `git clone https://github.com/ttayehh24/product-filter.git`
 
 
