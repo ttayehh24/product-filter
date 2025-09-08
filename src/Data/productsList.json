@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.50,
+    "imageUrl": "/Images/wireless-mouse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 75.00,
+    "imageUrl": "/Images/mechanical-keyboard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leather Wallet",
+    "category": "Fashion",
+    "price": 40.00,
+    "imageUrl": "/Images/leather-wallet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Travel Backpack",
+    "category": "Fashion",
+    "price": 85.75,
+    "imageUrl": "/Images/travel-backpack.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smart Speaker",
+    "category": "Electronics",
+    "price": 120.00,
+    "imageUrl": "/Images/smart-speaker.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "imageUrl": "/Images/headphones.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "price": 95.50,
+    "imageUrl": "/Images/running-shoes.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 60.00,
+    "imageUrl": "/Images/fitness-tracker.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home Goods",
+    "price": 15.00,
+    "imageUrl": "/Images/water-bottle.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Desk Lamp",
+    "category": "Home Goods",
+    "price": 30.25,
+    "imageUrl": "/Images/desk-lamp.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Digital Camera",
+    "category": "Electronics",
+    "price": 450.00,
+    "imageUrl": "/Images/camera.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 22.99,
+    "imageUrl": "/Images/yoga-mat.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cookware Set",
+    "category": "Home Goods",
+    "price": 150.00,
+    "imageUrl": "/Images/cookware-set.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Men's T-Shirt",
+    "category": "Apparel",
+    "price": 19.99,
+    "imageUrl": "/Images/t-shirt.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Portable Charger",
+    "category": "Electronics",
+    "price": 35.00,
+    "imageUrl": "/Images/portable-charger.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Coffee Maker",
+    "category": "Home Goods",
+    "price": 55.00,
+    "imageUrl": "/Images/coffee-maker.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Skateboard",
+    "category": "Sports",
+    "price": 70.00,
+    "imageUrl": "/Images/skateboard.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Women's Scarf",
+    "category": "Fashion",
+    "price": 20.00,
+    "imageUrl": "/Images/scarf.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 45.00,
+    "imageUrl": "/Images/bluetooth-speaker.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Gardening Tool Set",
+    "category": "Home Goods",
+    "price": 50.00,
+    "imageUrl": "/Images/gardening-set.jpg"
+  }
+]
