@@ -21,7 +21,17 @@ Use the git clone command followed by the copied repository URL.
 
 `git clone https://github.com/ttayehh24/product-filter.git`
 
+# Install Tailwind CSS
+Install tailwindcss and @tailwindcss/cli via npm.
 
+`npm install tailwindcss @tailwindcss/cli`
+
+# Start the Tailwind CLI build process
+Run the CLI tool to scan your source files for classes and build your CSS.
+
+`npx @tailwindcss/cli -i ./src/Styles/ProductFilter-input.css -o ./src/Styles/ProductFilter-output.css`
+
+`npx @tailwindcss/cli -i ./src/Styles/App-input.css -o ./src/Styles/App-output.css`
 
 # Getting Started with Create React App
 
