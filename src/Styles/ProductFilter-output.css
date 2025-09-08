@@ -593,6 +593,8 @@
   }
   .card-container {
     display: flex;
+    width: 100%;
+    justify-content: space-around;
     padding: calc(var(--spacing) * 4);
     @media (width >= 40rem) {
       flex-direction: column;

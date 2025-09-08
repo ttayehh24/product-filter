@@ -17,7 +17,7 @@
         @apply flex flex-col items-start bg-white border border-gray-200 rounded-lg shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 hover:cursor-pointer dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700;
     }
     .card-container {
-        @apply flex sm:items-start sm:flex-col p-4;
+        @apply flex w-full justify-around sm:items-start sm:flex-col p-4;
     }
     .card-title {
         @apply mb-2 text-2xl font-medium tracking-tight text-gray-700 dark:text-white;
