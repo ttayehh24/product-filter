@@ -1,3 +1,28 @@
+# Steps to clone a GitHub repository:
+
+# Locate the repository on GitHub:
+Navigate to the main page of the repository you wish to clone on GitHub.
+
+# Copy the repository URL:
+1. Click the "Code" button on the repository page.
+2. Choose between HTTPS or SSH, depending on your setup. HTTPS is generally simpler for most users, while SSH offers secure, password-less authentication if you have SSH keys configured.
+3. Copy the corresponding URL to your clipboard.
+
+# Open your terminal or Git Bash:
+Launch your preferred command-line interface (e.g., Terminal on Mac/Linux, Git Bash on Windows).
+
+# Navigate to your desired directory:
+Use the cd command to change your current working directory to where you want to store the cloned repository. For example: 
+
+`cd ~/Desktop/my_projects`
+
+# Clone the repository: 
+Use the git clone command followed by the copied repository URL.
+
+`git clone https://github.com/ttayehh24/product-filter.git`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
